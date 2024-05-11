@@ -1,0 +1,139 @@
+html{
+    scroll-behavior: smooth;
+}
+
+.navbar{
+
+    /* border-bottom: 5px solid rgb(0, 94, 255); */
+    
+    box-shadow: 0 2px 25px #306BAC;
+    
+    }
+
+.header{
+
+        min-height: 100vh;
+        
+        /* background:linear-gradient(rgba(255, 166, 0, 0.3) , rgba(255, 166, 0, 0.3)) , url(../images/head_bg.jpg); */
+        
+        background: url(../images/CCTV1.jpg);
+        
+        background-position: center;
+        
+        background-size: cover;
+        
+}
+
+.header{
+
+    min-height: 100vh;
+    
+    /* background:linear-gradient(rgba(255, 166, 0, 0.3) , rgba(255, 166, 0, 0.3)) , url(../images/head_bg.jpg); */
+    
+    background: url(../images/CCTV1.jpg);
+    
+    background-position: center;
+    
+    background-size: cover;
+    
+    }
+    
+.header-text{
+    
+    text-align: center;
+    
+    position: absolute;
+    
+    top: 50%; left: 50%;
+    
+    transform: translate(-50% , -50%);
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    }
+
+.font_about{
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    color:#306BAC;
+
+
+}
+#about img{
+    height:50%; 
+    width: 100%;
+}
+
+.shieldlogo{
+    color: #306BAC;
+}
+.securitysyslogo{
+    color: #306BAC;
+}
+.mantenancelogo{
+    color: #306BAC;
+}
+.clocklogo{
+    color: #306BAC;
+
+}
+
+.logotext{
+    color:#141B41;
+}
+
+.servicestext{
+    color: #306BAC;
+}
+
+.pricingtext{
+    color: #306BAC;
+}
+
+.explorebtn{
+    color: rgba(96, 216, 216, 0.801);
+    background-color: rgba(0, 0, 0, 0.664);
+}
+.aboutbtn{
+    color: #306BAC;
+    background-color: rgba(0, 0, 0, 0.664);
+}
+
+.experincelogo{
+    background-color: #368ce7;
+}
+
+/* a{cursor:pointer} */
+
+.card-header-basic{
+    background-color: #0e47a3b4;
+}
+
+.card-header-standard{
+    background-color: #070bfcce;
+}
+
+.card-header-deluxe{
+    background-color: #0e47a3bd;
+}
+
+.buynowbtn{
+    background-color: #0e47a3bd;
+}
+.buynowstandardbtn{
+    background-color:#070bfcce;
+}
+
+.teamtext{
+    color: #306BAC;
+}
+
+.feedbacktext{
+    color: #306BAC;
+}
+
+.feedbacktext{
+    font-size : 150%;
+    
+}
+.contacttext{
+    color: #306BAC;
+}
+a{cursor:pointer}
